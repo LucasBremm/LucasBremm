@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasBremm
-- 👀 I’m interested in WebDevelopment and Game Development
-- 🌱 I’m currently learning Golang
+- 👀 I’m interested in DesktopDevelopment and GameDevelopment
+- 🌱 I’m currently learning C++, SFML and CMake
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=LucasBremm&show_icons=true&theme=dark&hide=stars,issues&&count_private=true" />
